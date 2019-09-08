@@ -1,0 +1,65 @@
+.nameHeading {
+  font-size: 75px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 300px;
+  font-family: 'Satisfy', cursive;
+  background-image: url(FeathersC.png);
+  position:  relative;
+  width: 100%;
+  background-position: center;
+}
+#vocation {
+  font-size: 60px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 400px;
+  font-family: 'Satisfy', cursive;
+}
+.nameAndVocation {
+  background: black;
+}
+img {
+  border-radius: 50%;
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.skillTitle {
+  font-size: 50px;
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+ul {
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  list-style-type: none;
+}
+a {
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  list-style-type: none;
+  color: black;
+}
+.projectsTitle {
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  list-style-type: none;
+  color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
